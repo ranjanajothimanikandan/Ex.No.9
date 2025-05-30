@@ -178,6 +178,10 @@ Document and store all generated videos along with the corresponding prompts. Ma
 
 ---
 
+## Output:
+
+https://drive.google.com/file/d/1bKzKr1SNl7ModsERW7MJtJOIFBNVddBI/view?usp=drivesdk 
+
 ### **Result:**
 
 The prompt-based video generation techniques were successfully explored using multiple AI tools. Variations in prompt structure significantly influenced video style, content, and motion. The experiment demonstrated the effectiveness of detailed, well-structured prompts in producing high-quality, creative video outputs tailored to specific themes and formats.
